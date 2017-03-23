@@ -5,9 +5,9 @@
 			<?php 
 				echo "Happy New Year";
 			?>
-			<p>edited new version 1</p>
-			<p>edited new version 2</p>
-			<p>edited new version 3</p>
+			<p>edited new version one</p>
+			<p>edited new version two</p>
+			<p>edited new version three</p>
 		</div>
 	</body>
 </html>
